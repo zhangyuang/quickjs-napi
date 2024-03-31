@@ -1,0 +1,24 @@
+{
+  "name": "quickjs-napi",
+  "version": "1.0.0",
+  "description": "Quickjs napi binding by ffi-rs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangyuang/quickjs-napi.git"
+  },
+  "keywords": [
+    "quickjs",
+    "napi",
+    "ffi"
+  ],
+  "author": "zhangyuang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangyuang/quickjs-napi/issues"
+  },
+  "homepage": "https://github.com/zhangyuang/quickjs-napi#readme"
+}
